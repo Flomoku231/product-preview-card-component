@@ -137,7 +137,7 @@ p{
     }
     .product__card--container{
         width: 100%;
-        height: auto;
+        height: inherit;
     }
     .right__container{
         padding: 20px;
